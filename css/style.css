@@ -118,7 +118,6 @@ h6 {
 @media screen and (min-width : 700px) and (max-width : 1024px) {
   .container-cinza {
     width: 100%;
-    background-color: var(--dark-20);
     padding: 38px 0px 60px 0px;
   }
   
