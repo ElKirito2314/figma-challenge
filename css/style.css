@@ -64,12 +64,15 @@ h6 {
   border-radius: 8px;
   margin-top: 1.5rem;
   border: var(--dark-40) solid 2px;
+  color: var(--white);
+  font-size: 20px;
 }
 
 .pesquisa ::placeholder {
   font-size: 20px;
   color: var(--gray);
 }
+
 
 .cards-container {
   display: flex;
